@@ -18,11 +18,3 @@ We are asking you to predict total sales for every product and store in the next
 - Features interaction
 - XGBoost
 
-## 3. Best Score
-0.87302 in Public Leaderboard
-![Leaderboard Score](https://raw.githubusercontent.com/nitsaick/kaggle-predict-future-sales/master/leaderboard_screenshot.png)
- 
-## 4. Jupyter notebook link
- - [Data processing](https://nbviewer.jupyter.org/github/nitsaick/kaggle-predict-future-sales/blob/master/data_processing.ipynb)
- - [Model fit](https://nbviewer.jupyter.org/github/nitsaick/kaggle-predict-future-sales/blob/master/model_fit.ipynb)
-
